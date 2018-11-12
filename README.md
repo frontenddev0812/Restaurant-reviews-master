@@ -20,6 +20,8 @@ I was provided the code for a restaurant reviews website. This code has a lot of
 
 1. leafletjs  (https://leafletjs.com/) 
 2. Mapbox  (https://www.mapbox.com/)
+3. HTML, CSS, & JavaScript
+4. Python server 
 
 
 # Special Thanks To:
